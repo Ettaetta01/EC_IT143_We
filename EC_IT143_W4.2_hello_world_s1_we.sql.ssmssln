@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 20.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "EC_IT143_W4.2_hello_world_s1_we.sql", "EC_IT143_W4.2_hello_world_s1_we.sql\EC_IT143_W4.2_hello_world_s1_we.sql.ssmssqlproj", "{F24524F1-78BE-4812-ADCB-F405AD4A1BDC}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "EC_IT143_W4.2_hello_world_s2_we.sql", "EC_IT143_W4.2_hello_world_s2_we.sql\EC_IT143_W4.2_hello_world_s2_we.sql.ssmssqlproj", "{EAF0E40A-2B81-429B-A877-6C72A846043F}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "EC_IT143_W4.2_hello_world_s3_we.sql", "EC_IT143_W4.2_hello_world_s3_we.sql\EC_IT143_W4.2_hello_world_s3_we.sql.ssmssqlproj", "{F7679E72-EF15-49F6-9E3A-5C8558E49A89}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "EC_IT143_W4.2_hello_world_s4_we.sql", "EC_IT143_W4.2_hello_world_s4_we.sql\EC_IT143_W4.2_hello_world_s4_we.sql.ssmssqlproj", "{CFAAFECA-601F-496B-BD6E-932E221986F8}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "EC_IT143_W4.2_hello_world_s5_we.sql", "EC_IT143_W4.2_hello_world_s5_we.sql\EC_IT143_W4.2_hello_world_s5_we.sql.ssmssqlproj", "{B17736C8-4808-42AE-973E-6253D2938DB3}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "EC_IT143_W4.2_hello_S5.2_we.sql", "EC_IT143_W4.2_hello_S5.2_we.sql\EC_IT143_W4.2_hello_S5.2_we.sql.ssmssqlproj", "{6F8D9DDA-3019-40AF-8FE1-A1A977ED10D2}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "EC_IT143_W4.2_hello_world_s6_we.sql", "EC_IT143_W4.2_hello_world_s6_we.sql\EC_IT143_W4.2_hello_world_s6_we.sql.ssmssqlproj", "{ACEDC6E6-2158-43C1-8B2E-59814B73B061}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "EC_IT143_W4.2_hello_world_s7_we.sql", "EC_IT143_W4.2_hello_world_s7_we.sql\EC_IT143_W4.2_hello_world_s7_we.sql.ssmssqlproj", "{14246FDB-E591-4485-AB1B-9704CE3899D3}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "EC_IT143_W4.2_hello_world_s8_we.sql", "EC_IT143_W4.2_hello_world_s8_we.sql\EC_IT143_W4.2_hello_world_s8_we.sql.ssmssqlproj", "{4BABB31B-9E67-4869-9CF2-C4C5F4CA9864}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F24524F1-78BE-4812-ADCB-F405AD4A1BDC}.Default|Default.ActiveCfg = Default
+		{A4E488CF-837B-4122-95FC-6714931AE666}.Default|Default.ActiveCfg = Default
+		{EAF0E40A-2B81-429B-A877-6C72A846043F}.Default|Default.ActiveCfg = Default
+		{F7679E72-EF15-49F6-9E3A-5C8558E49A89}.Default|Default.ActiveCfg = Default
+		{CFAAFECA-601F-496B-BD6E-932E221986F8}.Default|Default.ActiveCfg = Default
+		{B17736C8-4808-42AE-973E-6253D2938DB3}.Default|Default.ActiveCfg = Default
+		{6F8D9DDA-3019-40AF-8FE1-A1A977ED10D2}.Default|Default.ActiveCfg = Default
+		{ACEDC6E6-2158-43C1-8B2E-59814B73B061}.Default|Default.ActiveCfg = Default
+		{14246FDB-E591-4485-AB1B-9704CE3899D3}.Default|Default.ActiveCfg = Default
+		{4BABB31B-9E67-4869-9CF2-C4C5F4CA9864}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58B1ED51-9638-45FC-B26D-F7763F31A010}
+	EndGlobalSection
+EndGlobal
